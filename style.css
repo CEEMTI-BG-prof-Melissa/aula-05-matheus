@@ -1,0 +1,13 @@
+html{
+  background-color: green;
+}
+
+body{
+  background-size: cover;
+  min-height: 10px;
+}
+
+header{
+  background-color: green;
+  position: static;
+}
